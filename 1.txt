@@ -1,0 +1,14 @@
+1. num=len([1,2,3,6,8])
+2.concatination=[1,2,3]+[4,5,6]
+                [1,2,3,4,5,6]
+3.repitition "vijay""komarapu"*10
+4. in ==== a in [a,e,i,o,u]
+   not in ==== b not in [a,e,i,o,u]
+
+Given a maximum of four digit to the base 17(10-A,11-B,12-C,13-D....16-G) as input, output its decimal value.
+
+Test cases
+case1:
+*input-1A
+*expected output-27
+case2:
