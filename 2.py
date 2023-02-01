@@ -1,69 +1,68 @@
 Python 3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
-========== RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.py/1.py =========
+========= RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.txt/3.py =========
+HELLO WORLD
+>>> 
+========= RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.txt/3.py =========
+>>> 
+>>> 
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+
+Traceback (most recent call last):
+  File "C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py", line 1, in <module>
+    days=int(input())
+ValueError: invalid literal for int() with base 10: ''
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+
+Traceback (most recent call last):
+  File "C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py", line 1, in <module>
+    days=int(input())
+ValueError: invalid literal for int() with base 10: ''
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+34
+12
+67
+5768
+remaining days: 50
+remaining calls: 2988
+remaining msgs: 33
+limit exceed
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+85
+your plan expired
+>>> 82
+82
+>>> 88
+88
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+82
+2789
+39
+1.5
+remaining days: 2
+remaining calls: 211
+remaining msgs: 61
+remaining data: 0.5
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
 -10
--9
--8
--7
--6
--5
--4
--3
--2
--1
+20
+3000
+2.1
+remaining days: 94
+remaining calls: 2980
+msg failed
+limit exceed
 >>> 
-========== RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.py/1.py =========
--10
--8
--6
--4
--2
->>> 
-========== RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.py/1.py =========
--10
--8
--6
--4
--2
->>> 
-========== RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.py/1.py =========
--10
--8
--6
--4
--2
->>> 
-========== RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.py/1.py =========
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
->>> 
-========== RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.py/1.py =========
->>> 
-========== RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.py/1.py =========
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
 1 
 
 2 2 
@@ -75,57 +74,90 @@ Type "help", "copyright", "credits" or "license()" for more information.
 5 5 5 5 5 
 
 >>> 
-========== RESTART: C:/Users/91961/Desktop/keerthana/Day_2/Day.py/1.py =========
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
 A 
 
-B B 
+C C 
 
-C C C 
+E E E 
 
-D D D D 
+G G G G 
 
-E E E E E 
+I I I I I 
 
-F F F F F F 
+K K K K K K 
 
-G G G G G G G 
+M M M M M M M 
 
-H H H H H H H H 
+O O O O O O O O 
 
-I I I I I I I I I 
+Q Q Q Q Q Q Q Q Q 
 
-J J J J J J J J J J 
+S S S S S S S S S S 
 
-K K K K K K K K K K K 
+U U U U U U U U U U U 
 
-L L L L L L L L L L L L 
+W W W W W W W W W W W W 
 
-M M M M M M M M M M M M M 
+Y Y Y Y Y Y Y Y Y Y Y Y Y 
 
-N N N N N N N N N N N N N N 
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+1 * 10= 10 
 
-O O O O O O O O O O O O O O O 
+2 * 10= 20 
 
-P P P P P P P P P P P P P P P P 
+3 * 10= 30 
 
-Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+4 * 10= 40 
 
-R R R R R R R R R R R R R R R R R R 
+5 * 10= 50 
 
-S S S S S S S S S S S S S S S S S S S 
+6 * 10= 60 
 
-T T T T T T T T T T T T T T T T T T T T 
+7 * 10= 70 
 
-U U U U U U U U U U U U U U U U U U U U U 
+8 * 10= 80 
 
-V V V V V V V V V V V V V V V V V V V V V V 
+9 * 10= 90 
 
-W W W W W W W W W W W W W W W W W W W W W W W 
+10 * 10= 100 
 
-X X X X X X X X X X X X X X X X X X X X X X X X 
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+1 *5= 5
+2 *5= 10
+3 *5= 15
+4 *5= 20
+5 *5= 25
+6 *5= 30
+7 *5= 35
+8 *5= 40
+9 *5= 45
+10 *5= 50
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+1 
 
-Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+1 2 
 
-Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+1 2 3 
 
+1 2 3 4 
+
+1 2 3 4 5 
+
+1 2 3 4 5 6 
+
+1 2 3 4 5 6 7 
+
+1 2 3 4 5 6 7 8 
+
+1 2 3 4 5 6 7 8 9 
+
+1 2 3 4 5 6 7 8 9 10 
+
+>>> 
+========== RESTART: C:\Users\91961\Desktop\keerthana\Day_2\Day.py\1.py =========
+7.0710678118654755
 >>> 
