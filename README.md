@@ -1,1 +1,1 @@
-# TT-day_2
+# Techinical Training
