@@ -1,0 +1,76 @@
+a=5
+b=5.0
+if(a==b):
+    print("yes")
+else:
+    print("no")
+
+output: yes
+
+
+a=5
+b=True
+if(1==b):
+    print("yes")
+else:
+    print("no")
+
+output: yes
+
+
+a=5
+b=True
+if(0==b):
+    print("yes")
+else:
+    print("no")
+
+output: no
+
+
+
+x=int(input("enter x value:"))
+if(x%7==0):
+    print("number is divisible by 7")
+else:
+    print("number is not divisible by 7")
+ 
+enter x value: 21
+
+output: number is divisible by 7
+
+
+x=int(input("enter x value:"))
+if(x%7==0):
+    print("number is divisible by 7")
+else:
+    print("number is not divisible by 7")
+
+enter x value: 27
+
+output : number is not divisible by 7
+
+
+
+ 
+email="balaji@gmail.com"
+pwd=123456
+cemail=input("Enter the email:")
+cpwd=int(input("Enter the pwd:"))
+
+if(email==cemail and pwd==cpwd):
+    print("login successfully")
+elif(email!=cemail and pwd==cpwd):
+    print("login failed due to email")
+elif(email==cemail and pwd!=cpwd):
+    print("login failed due to pwd")
+elif(email!=cemail and pwd!=cpwd):
+    print("login failed due to email and pwd")
+
+
+
+
+
+
+
+
