@@ -1,5 +1,4 @@
 class Node:
-    count=0
     def __init__(self, data):
         self.left = None
         self.right =None
@@ -7,16 +6,13 @@ class Node:
     def insert(self,data):
         if self.data:
             if data < self.data:
-                self.count=self.count+1
                 if self.left is None:
                     self.left = Node(data)
                 else:
                     self.left.insert(data)
             else:
-                #data > self.data
-                self.count=self.count+1
+                data > self.data
                 if self.right is None:
-                    #self.count=self.count+2
                     self.right = Node(data)
                 else:
                     self.right.insert(data)
@@ -46,7 +42,6 @@ root.insert(14)
 root.insert(3)
 print(root.findval(7))
 print(root.findval(14))
-print(root.count+1)
             
 
             
